@@ -2,7 +2,7 @@ wiki
 ===============================
 __Table of Contents__
 
-[Introduction](https://github.com/mycsus/wiki#intro)
+[Introduction](#introduction)
 
 
 
@@ -13,15 +13,7 @@ __Table of Contents__
 
 
 
-
-
-
-
-
-
-
-
-<a href="#intro"></a>Introduction
+Introduction
 =============================
 Hello and welcome to the Malaysian Computer Science at US wiki! 
 
