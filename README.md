@@ -11,7 +11,10 @@ This wiki can be written by anyone who is interested to contribute. Here's a lin
 Summary of Minigudes
 ----------------------------
 Data Structures and Algorithms
+
 Web Development
+
 Artificial Intelligence
+
 Job Search and Interview Prep
 
