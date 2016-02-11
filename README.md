@@ -1,7 +1,8 @@
 wiki
 ===============================
 __Table of Contents__
-[Introduction](https://github.com/mycsus/wiki/README.md#intro)
+
+[Introduction](https://github.com/mycsus/wiki#intro)
 
 <a href="#intro"></a>Introduction
 =============================
