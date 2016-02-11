@@ -6,7 +6,7 @@ Hello and welcome to the Malaysian Computer Science at US wiki! This guide conta
 + Example projects to do
 + Recommended libraries
 
-This wiki can be written by anyone who is interested to contribute. Here's a link to how you can [contribute](../master/CONTRIBUTING).
+This wiki can be written by anyone who is interested to contribute. Here's a link to how you can [contribute](../master/CONTRIBUTING.md).
 
 Summary of Minigudes
 ----------------------------
