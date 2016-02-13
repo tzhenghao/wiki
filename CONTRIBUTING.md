@@ -8,6 +8,9 @@ Contribution guidelines
 ### Keep contents PG-13
 It may be fun to curse while coding, but this wiki is not the place..  :P
 
+### Use Markdown
+Markdown looks good in both HTML and plain text, fun for both editing, viewing on github, and downloading for local use. Please don't use HTML in the markdown files (it works, but the text files will look ugly :( )
+
 ### Keep contents beginnner friendly
 Authors can assume that the reader knows programming. General contents (i.e. Web dev) should assume that the reader knows nothing about the domain. More specific contents (i.e. JQuery) can assume that the reader have the general domain knowledge.
 
