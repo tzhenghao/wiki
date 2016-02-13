@@ -18,11 +18,12 @@ Currently, we are looking for volunteers to contribute to the following topics:
 
 #### Miniguides
 + Data Structures and Algorithms
-+ Web Development
 + Machine Learning
 + Operating Systems
 + Concurrent Programmming
 + Security
++ Programming languages
++ Web Development
 + Linux developement
 + Android developement
 + iOS developement
