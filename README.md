@@ -19,8 +19,8 @@ Currently, we are looking for volunteers to contribute to the following topics:
 + Data Structures and Algorithms
 + Web Development
 + Machine Learning
-+ OS
-+ Concurrent Programs
++ Operating Systems
++ Concurrent Programmming
 + Security
 + Linux developement
 + Android developement
