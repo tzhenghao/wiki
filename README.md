@@ -22,5 +22,6 @@ Currently, we are looking for volunteers to contribute to the following topics:
 + Linux developement
 + Android developement
 + iOS developement
++ Embedded systems (arduino/raspberrypi/FPGA) development
 + Hackathon tips
 
