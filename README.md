@@ -1,6 +1,6 @@
 mycsus wiki
 ===============================
-Hello and welcome to the Malaysian Computer Science at US wiki! This wiki is for us to help each other get started on different CS fields, and tips on CS job search.
+Hello and welcome to the Malaysian Computer Science at US wiki! This wiki is for us to help each other get started on different CS fields, and tips on CS job search. The wiki can be found at the repo's "wiki" tab.
 
 Do contribute if you have experience in a field, and want to share it with others. We welcome contributions from everyone! The contribution guidelines can be found at: [contribute](../master/CONTRIBUTING.md).
 
