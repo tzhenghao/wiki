@@ -19,9 +19,13 @@ Currently, we are looking for volunteers to contribute to the following topics:
 + Data Structures and Algorithms
 + Web Development
 + Machine Learning
++ OS
++ Concurrent Programs
++ Security
 + Linux developement
 + Android developement
 + iOS developement
 + Embedded systems (arduino/raspberrypi/FPGA) development
 + Hackathon tips
++ etc... (this list can go on forever)
 
