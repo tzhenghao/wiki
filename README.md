@@ -10,6 +10,7 @@ Currently, we are looking for volunteers to contribute to the following topics:
 
 #### Job Search
 + Resume tips - how to make your resume look good, and get that interview!
++ Job search - how to find your dream job
 + Interview prep - how to prepare for technical CS interview
 + CPT/OPT Process - once you have a job offer, how to work legally
 + Company work condition comparison - if you have multiple job offers, how to choose the best comapany for you
