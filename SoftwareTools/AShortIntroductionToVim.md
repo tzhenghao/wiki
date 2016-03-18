@@ -4,9 +4,9 @@ For those of you who use Emacs or Sublime, you are welcome to read on :D
 
 ##So what is Vim?
 
-Vim is a text-editor that allows you to type out just about anything. It\`s
+Vim is a text-editor that allows you to type out just about anything. It's
 more powerful than Notepad, but generally have a much steeper learning curve
-so you can operate at full speed. It\`s all about muscle memory, and I\`m here to
+so you can operate at full speed. It's all about muscle memory, and I'm here to
 help you out. :)
 
 ##Skipping the history lessons. I will let Wikipedia do it for me.
@@ -20,7 +20,7 @@ There are 3 main modes in Vim:
 3. Visual mode
 
 ##Normal Mode
-This is the \``normal\`` mode where you will typically see or start out with
+This is the 'normal' mode where you will typically see or start out with
 
 
 ##Insert Mode
@@ -45,7 +45,7 @@ pick new color schemes to customize your Vimmi
 
 Vim also allows you to have plugins.
 
-Here are some of my favorite ones:
+Here are some of my favorite ones: \\
 1. pathogen
 2. vim-airline
 3. NERDtree
